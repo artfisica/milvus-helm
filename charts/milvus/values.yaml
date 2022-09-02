@@ -144,7 +144,7 @@ msgChannel:
 ## milvus authorization
 ##
 authorization:
-  enabled: false
+  enabled: true
 
 ## Heaptrack traces all memory allocations and annotates these events with stack traces.
 ## See more: https://github.com/KDE/heaptrack
