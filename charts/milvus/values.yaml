@@ -39,7 +39,7 @@ annotations: {}
 ## ref: http://kubernetes.io/docs/user-guide/services/
 ##
 service:
-  type: ClusterIP
+  type: LoadBalancer
   port: 19530
   nodePort: ""
   annotations: {}
